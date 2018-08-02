@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.wolfcode</groupId>
-    <artifactId>dubbo-demo-server</artifactId>
+    <artifactId>JarPackage</artifactId>
     <version>1.0.0</version>
 
     <!-- SpringBoot 依赖 -->
